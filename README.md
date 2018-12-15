@@ -1,2 +1,3 @@
 # playground
-A sandbox for testing purposes &amp; learning purposes for Getting Started into GitHub.
+## A sandbox for testing purposes &amp; learning purposes for Getting Started into GitHub.
+
