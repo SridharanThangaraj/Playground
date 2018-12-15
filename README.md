@@ -2,15 +2,17 @@
 ## A sandbox repository for testing purposes &amp; learning purposes for Getting Started into GitHub.
 
 **Pre-requisites**
-1. Download & Install [Visual Studio Code](https://code.visualstudio.com/download)
+* Download & Install [Visual Studio Code](https://code.visualstudio.com/download)
 
 **Steps to Get Started**
 1. Clone Repository into local workspace
+
 2. Make changes to this file
 > Add your name to the Changes section below of this file &amp; tag me with it.
+
 3. Stage changes to GitHub
 ```
-git add
+git add .
 ```
 
 4. Commit changes to GitHub
@@ -30,3 +32,5 @@ git push
 3. 
 4. 
 5. 
+
+@jacobtan89
