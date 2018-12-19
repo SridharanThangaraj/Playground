@@ -1,4 +1,4 @@
-# playground
+# Playground
 ## A sandbox repository for testing purposes &amp; learning purposes for Getting Started into GitHub.
 
 **Pre-requisites**
@@ -8,7 +8,7 @@
 **Steps to Get Started**
 1. Clone this Repository into local workspace
 ```
-git clone https://github.com/B1-Catalyst/playground.git
+git clone https://github.com/B1-Catalyst/Playground.git
 ```
 
 2. Make changes to this file in your working folder
