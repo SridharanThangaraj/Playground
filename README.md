@@ -2,6 +2,7 @@
 ## A sandbox repository for testing purposes &amp; learning purposes for Getting Started into GitHub.
 
 **Pre-requisites**
+* Download & Install [Git] (https://git-scm.com/download)
 * Download & Install [Visual Studio Code](https://code.visualstudio.com/download)
 * Open Visual Studio Code > Open a Folder (you decide) > Open Terminal / Command Prompt
 
@@ -11,7 +12,7 @@
 git clone https://github.com/B1-Catalyst/Playground.git
 ```
 
-2. Make changes to this file in your working folder
+2. Open README.md (this file) Make changes to this file in your working folder
 > Add your name to the Changes section below of this file &amp; tag me with it.
 
 3. Stage your changes to GitHub
