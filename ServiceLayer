@@ -1,0 +1,28 @@
+Comment: Adding AR Invoice with Batch Numbers for Line Items
+
+{
+    "DocType": "dDocument_Items",
+    "DocDate": "2018-12-26",
+    "DocDueDate": "2018-12-26",
+    "CardCode": "C23900",
+    "CardName": "Microchips",
+    "Series": 1,
+    "TaxDate": "2018-12-26",
+    "DocumentLines": [
+        {
+            "LineNum": 0,
+            "ItemCode": "B10000",
+            "ItemDescription": "Printer Label",
+            "Quantity": 10,
+            "WarehouseCode": "02",
+            "Price": 56.25,
+            "TaxCode": "VAT@12.5",
+            "BatchNumbers": [
+                {
+                    "BatchNumber": "FEI/042009/02",
+                    "Quantity": 10,
+                }
+            ]
+        }
+    ]
+}
